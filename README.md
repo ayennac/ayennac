@@ -6,7 +6,7 @@ I'm Ayenna (AH-ye-nuh)! This last fall I graduated from an accelerated 12 week f
 
 - 🧹[ChoreBuddy](https://github.com/ayennac/proj-chores), a web app that uses the principles of body doubling and community to help users finish their chores
 
-🌱 I’m currently learning Node and Express!
+🌱 I’m currently learning and practicing parts of the MERN stack!
 
 📫 How to reach me: 
 - [My LinkedIn Profile](https://www.linkedin.com/in/ayennac/)
